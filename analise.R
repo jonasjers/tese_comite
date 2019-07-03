@@ -3,9 +3,10 @@
 #========================================#
 
 # instalar pacotes
-#install.packages("RQDA")
+#install.packages("RQDA", dependencies = T)
 
 # carregar pacote
+
 library(RQDA)
 
 # executar Qualitative Data Analysis
