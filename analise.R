@@ -9,6 +9,7 @@
 
 library(RQDA)
 
+
 # executar Qualitative Data Analysis
 RQDA()
 
