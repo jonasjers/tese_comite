@@ -16,3 +16,5 @@ RQDA()
 exportCodings(file = "Exported Codings.html", Fid = NULL,
               order = c("fname", "ftime", "ctime"), append = FALSE,
               codingTable="coding")
+
+
